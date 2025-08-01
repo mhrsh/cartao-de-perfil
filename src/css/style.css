@@ -64,3 +64,7 @@ hr {
 .profile-numbers .info .counter-type {
     color: var(--text-color);
 }
+
+.divider {
+    opacity: 0.3;
+}
